@@ -1,10 +1,10 @@
 #Pa6: Big Integer
 
 ## Description:
-This program handles big integers and preforms operations on them.
+This program handles big integers and performs operations on them. The input file must contain two numbers and the outfile will perform these operations: 𝐴, 𝐵, 𝐴 + 𝐵, 𝐴 − 𝐵, 𝐴 − 𝐴, 3𝐴 − 2𝐵, 𝐴𝐵, 𝐴^2, 𝐵^2, 9𝐴^4 + 16𝐵^5 
 
 ## Files:
-Arithmetic.cpp is the top level client for this program. It reads in the numbers from the input file and preforms operations on the numbers and prints it to the output file.
+Arithmetic.cpp is the top-level client for this program. It reads in the numbers from the input file and performs operations on the numbers and prints them to the output file.
 
 BigInteger.h is the header file for the BigInteger ADT. It defines all the functions used in BigInteger.cpp.
 

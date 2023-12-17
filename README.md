@@ -1,7 +1,7 @@
 #Pa6: Big Integer
 
 ## Description:
-This program handles big integers and performs operations on them. The input file must contain two numbers and the outfile will perform these operations: 𝐴, 𝐵, 𝐴 + 𝐵, 𝐴 − 𝐵, 𝐴 − 𝐴, 3𝐴 − 2𝐵, 𝐴𝐵, 𝐴^2, 𝐵^2, 9𝐴^4 + 16𝐵^5 
+This program handles big integers and performs operations on them. The input file must contain two numbers and the outfile will perform these operations: 𝐴, 𝐵, 𝐴 + 𝐵, 𝐴 − 𝐵, 𝐴 − 𝐴, 3𝐴 − 2𝐵, 𝐴𝐵, 𝐴^2, 𝐵^2, 9𝐴^4 + 16𝐵^5. You may use the example infiles to test it and compare the results to the expected answers in the example outfiles.
 
 ## Files:
 Arithmetic.cpp is the top-level client for this program. It reads in the numbers from the input file and performs operations on the numbers and prints them to the output file.
